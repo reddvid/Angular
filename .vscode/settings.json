@@ -1,0 +1,7 @@
+{
+   "prettier.configPath": "",
+   "prettier.requireConfig": true,
+   "prettier.useEditorConfig": true,
+   "prettier.printWidth": 2,
+   "prettier.tabWidth": 2
+}
